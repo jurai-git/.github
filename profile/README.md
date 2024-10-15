@@ -8,10 +8,10 @@ This project is being developed as the final paper for the Systems Development c
 ### Technologies
 
 The project is divided in five main parts, each of which uses the following technologies:
-- Desktop client - JavaFX with Maven
+- Desktop client - JavaFX with Maven and Docker for production compilation
 - Web client and website - HTML, CSS, JS and Vue.js
 - Mobile client - Flutter
-- Web server - Flask with uWSGI
+- Web server - Flask with uWSGI and Docker for containerization
 - AI - Pytorch and TensorFlow
 
-We are also, of course, using Git and GitHub for VCS.
+We are also, of course, using Git and GitHub as our VCS.
