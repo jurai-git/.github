@@ -13,3 +13,5 @@ The project is divided in five main parts, each of which uses the following tech
 - Mobile client - Flutter
 - Web server - Flask with uWSGI
 - AI - Pytorch and TensorFlow
+
+We are also, of course, using Git and GitHub for VCS.
